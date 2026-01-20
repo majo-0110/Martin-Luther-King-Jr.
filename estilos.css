@@ -1,0 +1,12 @@
+@charset "utf-8";
+body {
+    background-color: #C4A2D5;
+}
+h1 {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+table {
+    background-color: #C65ED4;
+    color: #F9F0F1;
+}
